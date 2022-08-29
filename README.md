@@ -1,2 +1,3 @@
 # circleci-cpm-sandbox
-CPM sandbox project.
+
+For testing config policies.
